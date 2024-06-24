@@ -1,0 +1,1 @@
+audio_play_sound(t1, 1, true); 
